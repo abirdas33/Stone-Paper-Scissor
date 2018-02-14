@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">StonePaperScissor</string>
+    <string name="admob_interstitial_id">ca-app-pub-6752097487123810/5024544248</string>
+    <string name="banner_ad_unit_id"> ca-app-pub-6752097487123810/9538504329</string>
+</resources>
